@@ -1,4 +1,4 @@
-## Hi, I'm John
+## Hi, I'm Ivan
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=AC1010&lines=Computer+science+student)](https://git.io/typing-svg)
 
